@@ -25,7 +25,8 @@ const uuid = () => {
   return uuid;
 }
 
-const DappAddress = 'n1pyYXZZTWbFhNdstHBe1TfA4bHNttFdoSG';
+const DappAddress = 'n1r2ss2Hpm5DZhKsLg1yJ2dkCYuf2YGwUjz';
+// hash: 345cb480890332d56ef1deb65f1aad8732b2ec71126d3447ad0f15afe1c39258
 
 class App extends Component {
   static propTypes = {};
